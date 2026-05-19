@@ -2,7 +2,7 @@
 
 💻 IT Graduate | AI/ML Enthusiast | Software Developer  
 🚀 IT Support Intern @ CAPACITI  
-🎓 Diploma in Information Technology — CUT  
+🎓 Diploma in Information Technology,CUT  
 🌍 South Africa  
 
 ## Technologies
